@@ -8,7 +8,7 @@
 - CSS 3
 - React Js
 
-##Iniciar projeto
+## Iniciar projeto
  - Bixar o projeto, ou clonar.
  - baixar as dependências: npm i, yarn.
  - entrar na pasta do projeto.
