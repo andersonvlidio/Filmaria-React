@@ -1,6 +1,6 @@
 # Filmaria React
 
-[Link do desafio no Netifly](https://filmaria-react-study.netlify.app/)
+[Link do projeto no Netifly](https://filmaria-react-study.netlify.app/)
 
 ## Ferramentas utilizadas
 
